@@ -9,6 +9,7 @@ Inside you will find:
 3) Detailed Results Matrices and produced figures used in the paper
 
 The proposed running process of our model is the following:
+
 1) Run locally in you Personal Computer "single_level_sizing_v2.m"
    
    a) Choose the variable values, such RoI, Investement Yearlife, CVaR, assets size blocks etc. according to the needs of your own co-optimization problem or test.
