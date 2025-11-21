@@ -12,7 +12,7 @@ The proposed running process of our model is the following:
 
 1) Run locally in you Personal Computer "single_level_sizing_v2.m"
    
-   a) Choose the variable values, such RoI, Investement Yearlife, CVaR, assets size blocks etc. according to the needs of your own co-optimization problem or test.
+   a) Choose the variable values, such RoI, Investment Yearlife, CVaR, assets size blocks etc. according to the needs of your own co-optimization problem or test.
 
    b) Select between the proposed Transmission Networks and Distribution Networks. Network Models are stored in folder "Network Setup". Model provides, also, the ability to users to store and run their own TN or DN Model.
 
@@ -20,4 +20,4 @@ The proposed running process of our model is the following:
 
    d) Select between minimum_return_choice = 0 or 1 for Co-Optimization model or DSO-oriented model, respectively.
    
-2) Export the results of your testing in the files investement_report and power_flow_report
+2) Export the results of your testing in the files investment_report and power_flow_report
